@@ -1,0 +1,1 @@
+URL_COURIER_CREATION = 'https://qa-scooter.praktikum-services.ru/api/v1/courier'
